@@ -1,7 +1,7 @@
 # Web-Mapping-with-Python-Folium
 
 This repository consists of the map built on HTML file using Python folium library.
-folium builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the leaflet.js library. Manipulate your data in Python, then visualize it in on a Leaflet map via folium.
+folium builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the leaflet.js library. We can manipulate our data in Python, then visualize it in on a Leaflet map via folium.
 folium makes it easy to visualize data that’s been manipulated in Python on an interactive leaflet map. It enables both the binding of data to a map for choropleth visualizations as well as passing rich vector/raster/HTML visualizations as markers on the map.
 In this repository, map built on HTML file consists of Volcanoes and Population of the world.
 Python code of this map is created in five steps. Therefore, there are five python files in this repository:
