@@ -1,4 +1,4 @@
-# Data-Visualisation_Web-Mapping-with-Python-Folium-
+# Web-Mapping-with-Python-Folium
 
 This repository consists of the map created on HTML file. This map consists of Volcanoes and Population of the world.
 Python code of this map is created in five steps. Therefore, there are five python files in this repository:
